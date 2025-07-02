@@ -16,3 +16,14 @@ code {
 .nav-link{
   margin-left: 45px;
 }
+
+.foot-a a{
+  text-decoration: none;
+  color: #6c757d;
+
+}
+
+.foot-a a:hover {
+  text-decoration: none;
+  color: #0d6efd;
+}
