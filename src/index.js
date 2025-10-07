@@ -24,7 +24,7 @@ root.render(
     <Route path="/pricing" element={<PricingPage />}/>
     <Route path="/support" element={<SupportPage />}/>
     <Route path="*" element={<NotFoundPage />}/>
-   </Routes>
+   </Routes> 
    <Footer />
   </BrowserRouter>
 );
