@@ -28,3 +28,28 @@ code {
   text-decoration: none;
   color: #0d6efd;
 }
+
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+  text-decoration: none;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin:0 150px ;
+}
+
+#supportHero input{
+  padding: 12px 110px;
+  width: 100%;
+  font-size: 20px;
+  
+  border: none;
+}

@@ -11,13 +11,13 @@ function Team() {
 
         <div className="row p-4 " style={ {lineHeight : "1.5" }} >
           <div className="col-6 p-6 text-center">
-            <img src="media/images/nithinKamath.jpg" style={{borderRadius:"100%", width:"50%"}}/>
-            <h4 className='mt-5'>nithin kamath</h4>
+            <img src="media/images/avinash.jpg" style={{borderRadius:"90%", width:"40%"}}/>
+            <h4 className='mt-5'>Avinash Kurandale</h4>
             <h6>Founder, CEO</h6>
           </div>
           <div className="col-6 p-6">
             <p>
-              Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, 
+              Avinash and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, 
               Zerodha has changed the landscape of the Indian broking industry.
             </p> 
             <p>
